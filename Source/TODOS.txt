@@ -1,0 +1,4 @@
+VS CODE
+• Spellcheck
+• Some plugin for HTML in ts tempaltes
+• Snippets: if, for, while, console.log()
